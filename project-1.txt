@@ -1,2 +1,5 @@
 Project satu :
-ini cuma latihan menggunaka github aja, jangan diambil serius.
+ini cuma latihan menggunakan github aja, jangan diambil serius.
+
+Project dua :
+ini cuma latihan menggunakan github aja, jangan diambil serius.
